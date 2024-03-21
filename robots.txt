@@ -1,0 +1,22 @@
+User-agent: Yandex
+Disallow: /reg
+Disallow: /href
+Disallow: /register
+
+User-agent: Googlebot
+Disallow: /reg
+Disallow: /href
+Disallow: /register
+
+User-agent: Mail.Ru
+Disallow: /reg
+Disallow: /href
+Disallow: /register
+
+User-agent: *
+Disallow: /reg
+Disallow: /href
+Disallow: /register
+
+Host: https://1-win.lol 
+Sitemap: https://1-win.lol/sitemap.xml 
